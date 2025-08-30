@@ -1,1 +1,9 @@
-TXT Felipe
+
+Juan Felipe salazar Trujillo
+edad: 30 años
+Programa académico: tecnología en desarrollo software
+Semestre: 4
+Algo extraño que me gusta hacer es jugar pokemon
+Mi color favorito es el negro
+Tengo 1 mascota es una husky llamada Alaska
+Estoy interesado en desarrollar desarrollo web y videojuegos

@@ -1,1 +1,9 @@
-TXT Stevan
+Stevan Ortiz Tovar 
+edad: 18 años
+Programa académico: tecnología en desarrollo software
+Semestre: 4
+Algo extraño que me gusta hacer es arte 3d
+Mi color favorito es el morado
+Tengo 3 mascotas, una gata calico y 2 perros pincher venado
+Estoy interesado en desarrollar desarroollo backend y desarrollo de videojuegos 
+S
